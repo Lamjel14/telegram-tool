@@ -4,7 +4,7 @@ A Python-based Telegram automation tool built using **Telethon** and **Tkinter**
 This application allows you to interact with Telegram accounts securely using session-based authentication.
 
 ---
-![App Preview](assets/preview.png)
+![App Preview](assets/pic.png)
 ## ✨ Features
 - Telegram login via Telethon session
 - GUI built with Tkinter
